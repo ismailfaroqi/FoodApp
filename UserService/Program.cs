@@ -48,3 +48,4 @@ app.MapGraphQL();
 app.MapGet("/", () => "Hello World!");
 
 app.Run();
+
